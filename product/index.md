@@ -94,6 +94,11 @@ Get all configuration of product detail page.
   ],
   "regularPrice": 1360,
   "specialPrice": 896,
+  "defaultAttribute": {
+    "Brand": "APPLE",
+    "MaterialType": "cotton",
+    "Color": "green"
+  },
   "productInfoBundle": [
     {
       "componentType": "article-attribute",
@@ -120,13 +125,11 @@ Get all configuration of product detail page.
     },
     {
       "componentType": "customer-review",
-      "title": "Customer Review",
-      "content": {}
+      "title": "Customer Review"
     },
     {
       "componentType": "product-faq",
-      "title": "FAQ",
-      "content": {}
+      "title": "FAQ"
     }
   ],
   "attributes": [
